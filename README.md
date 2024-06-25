@@ -21,3 +21,7 @@ Our project uses the tinybio API to compute euclidean distance between two facia
 
 ## Is there anything else you want to share?
 We are looking forward to have bounties that focus on implementing novel MPC features and optimizing performance of specific functions.
+
+## Team members
+* Lars Folkerts - folkerts AT udel dot edu
+* Omar Ahmed

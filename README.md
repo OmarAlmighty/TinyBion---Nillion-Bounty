@@ -24,4 +24,4 @@ We are looking forward to have bounties that focus on implementing novel MPC fea
 
 ## Team members
 * Lars Folkerts - folkerts AT udel dot edu
-* Omar Ahmed
+* Omar Ahmed - oaaa AT udel dot edu
